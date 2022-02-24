@@ -1,0 +1,47 @@
+
+.loginForm{
+    background: #b183d3;
+    border-radius: 10px;
+    padding: 2rem;
+    margin: 5rem auto;
+    max-width: 450px;
+    height: auto;
+    .formInput{   
+        color: white;
+        font-size: 1.2rem;
+        padding: .125rem;
+                input{
+                    padding: .57rem;
+                    margin: .525rem;
+                }
+                .text-error{
+                    color: rgb(233, 8, 46);
+                    font-size: 1rem;
+                   
+                }
+          
+    }
+ 
+        .btn-color{
+            background: #67318d !important;
+            color: antiquewhite;
+            font-size: 1.5rem;
+            padding: .50rem 2rem;
+            border: 1px solid rgb(158, 1, 197);
+        }
+    .login-result{
+        border-radius: 10px;
+        padding: .22rem;
+        margin: .25rem auto;
+        ol li{       
+            text-align: left;
+        span{
+        color: rgb(5, 0, 34);
+        font-size: 1rem;
+        padding: 0 10px 0 0;
+       }
+    }
+
+    }
+   
+}
